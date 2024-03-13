@@ -1,3 +1,3 @@
-# firts-reposutory
+# first-reposutory
 README-file
 Hello!
