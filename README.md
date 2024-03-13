@@ -1,3 +1,3 @@
-# first-reposutory
+# first-repository
 README-file
 Hello!
